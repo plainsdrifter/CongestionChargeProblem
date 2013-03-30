@@ -1,0 +1,10 @@
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\CongestionCharge.dll
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\CongestionCharge.pdb
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\FluentAssertions.dll
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\nunit.framework.dll
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\FluentAssertions.pdb
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\FluentAssertions.xml
+d:\TDD\CongestionCharge\CongestionCharge\bin\Debug\nunit.framework.xml
+d:\TDD\CongestionCharge\CongestionCharge\obj\Debug\ResolveAssemblyReference.cache
+d:\TDD\CongestionCharge\CongestionCharge\obj\Debug\CongestionCharge.dll
+d:\TDD\CongestionCharge\CongestionCharge\obj\Debug\CongestionCharge.pdb
