@@ -1,4 +1,5 @@
 ﻿using System;
+﻿using System.Globalization.CultureInfo;
 
 namespace CongestionCharge
 {
@@ -33,7 +34,7 @@ namespace CongestionCharge
         public override string ToString()
         {
             return
-                string.Format(
+                string.Format(new CunltureInfo("lt-LT"),
                     "Charge for {0}h {1}m (AM rate): £{2:F}\n\n" +
                     "Charge for {3}h {4}m (PM rate): £{5:F}\n\n" +
                     "Total Charge: £{6:F}",
